@@ -8,10 +8,5 @@
 
 ![IMG3 - Copy](https://user-images.githubusercontent.com/84449238/201464698-29141f6e-01a6-4352-b401-e8d99a19918d.JPG)
 
+![IMG4 - Copy](https://user-images.githubusercontent.com/84449238/201464794-19fa2241-bb1f-4319-a78a-0689b38d2711.JPG)
 
-**2) Dataset:-**
-
-**a) Train Data:-**
-
-
-![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201463461-85d11dbc-c191-4d79-b412-5274137fbd10.JPG)
