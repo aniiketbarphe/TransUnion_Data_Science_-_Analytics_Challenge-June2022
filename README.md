@@ -6,6 +6,9 @@
 
 ![IMG2 - Copy](https://user-images.githubusercontent.com/84449238/201464640-4c568a81-2780-4f6d-8f25-c73ea737c095.JPG)
 
+![IMG3 - Copy](https://user-images.githubusercontent.com/84449238/201464698-29141f6e-01a6-4352-b401-e8d99a19918d.JPG)
+
+
 **2) Dataset:-**
 
 **a) Train Data:-**
