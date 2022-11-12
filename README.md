@@ -4,7 +4,8 @@
 
 **1) About Problem:-**
 
-![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201463516-d663731e-8f35-4a82-bb57-6b23b16bb545.JPG)
+![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201464521-4f2d61c5-c089-4afd-85ab-cfcfde46cdd2.JPG)
+
 
 Given person's credit related information, build ML model to classify credit score
 
