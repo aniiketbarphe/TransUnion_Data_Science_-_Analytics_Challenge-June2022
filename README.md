@@ -12,4 +12,5 @@ Given person's credit related information, build ML model to classify credit sco
 
 **a) Train Data:-**
 
+
 ![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201463461-85d11dbc-c191-4d79-b412-5274137fbd10.JPG)
