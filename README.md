@@ -4,12 +4,12 @@
 
 **1) About Problem:-**
 
+![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201463516-d663731e-8f35-4a82-bb57-6b23b16bb545.JPG)
+
 Given person's credit related information, build ML model to classify credit score
 
 **2) Dataset:-**
 
 **a) Train Data:-**
 
-![Train_Data](https://user-images.githubusercontent.com/84449238/201463226-47dc5fb1-ae32-497b-add4-a2dbeb1d7584.JPG)
-
-![WhatsApp Image 2022-06-19 at 10 02 27 PM](https://user-images.githubusercontent.com/84449238/174592857-bf28d92d-ee6c-4728-b115-4214c6a0ac88.jpeg)
+![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201463461-85d11dbc-c191-4d79-b412-5274137fbd10.JPG)
