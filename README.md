@@ -2,12 +2,8 @@
 
 # TransUnion_Data_Science_Analytics_Challenge-June2022
 
-**1) About Problem:-**
-
 ![IMG1 - Copy](https://user-images.githubusercontent.com/84449238/201464521-4f2d61c5-c089-4afd-85ab-cfcfde46cdd2.JPG)
 
-
-Given person's credit related information, build ML model to classify credit score
 
 **2) Dataset:-**
 
